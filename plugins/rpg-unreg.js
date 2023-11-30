@@ -1,6 +1,6 @@
 import { createHash } from 'crypto'
 let handler = async function (m, { args }) {
-if (!args[0]) throw `*⚠️ INGRESE SU NÚMERO DR SÉRIE, SI NO SABE CUAL ES USE #myns*`
+if (!args[0]) throw `*⚠️ INGRESE SU NÚMERO DE SÉRIE, SI NO SABE CUAL ES USE #myns*`
 let user = global.db.data.users[m.sender]
 let sn = createHash('md5').update(m.sender).digest('hex')
 if (args[0] !== sn) throw `*⚠️ VERIFIQUE QUE SU NÚMERO DE SÉRIE SEA CORRECTO*`
