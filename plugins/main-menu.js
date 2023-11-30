@@ -152,7 +152,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let pp = './storage/logos/Menu2.jpg'
     // await conn.reply(m.chat, '*Enviando el menu . . .*', ftrol) 
     conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m, null, nnn)
-    /*conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/n4mecit4_bc', pp, [
+    /*conn.sendButton(m.chat, text.trim(), '▢ ⲘⲒⲒⲔⴑ  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/n4mecit4_bc', pp, [
       ['ꨄ︎ Apoyar', `${_p}donate`],
       ['⏍ Info', `${_p}botinfo`],
       ['⌬ Grupos', `${_p}gpdylux`]
