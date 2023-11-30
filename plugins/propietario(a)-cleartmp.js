@@ -18,7 +18,7 @@ tmp.forEach(dirname => readdirSync(dirname).forEach(file => filename.push(join(d
 return filename.map(file => {
 const stats = statSync(file)
 unlinkSync(file)
-})} //NO USAR ESTE COMANDO EN HEROKU | DO NOT USE THIS COMMAND ON HEROKU
+})} //NO USAR ESTE COMANDO EN ⲘⲒⲒⲔⴑ | DO NOT USE THIS COMMAND ON ⲘⲒⲒⲔⴑ
 handler.help = ['cleartmp']
 handler.tags = ['owner']
 handler.command = /^(cleartmp|cleartemp|borrartmp|eliminartmp|borrartemp|borrartemp)$/i
