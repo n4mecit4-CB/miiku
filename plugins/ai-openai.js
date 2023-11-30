@@ -9,7 +9,7 @@ if (usedPrefix == 'a' || usedPrefix == 'A') return
 if (!text) throw `*⚠️ INGRESE UN TEXTO*\n\n❕ EJEMPLO:\n${usedPrefix + command} Pasos para crear una página`     
 try {
 conn.sendPresenceUpdate('composing', m.chat)  
-let syms = `Eres un asistente y tu nombre es CuriosityBot-MD, el nombre de tu dueño es Azami`
+let syms = `Eres un asistente y tu nombre es miikubot, el nombre de tu dueña es n4mecit4`
 let res = await gpt.ChatGpt(text, syms)
 await m.reply(res.text)
 } catch {
