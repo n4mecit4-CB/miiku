@@ -8,7 +8,7 @@ let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLatitude: 0,
   degreesLongitude: 0,
   name: 'Github del bot',
-  address: 'By Azami',
+  address: 'By n4mecit4-cb',
   url: md,
   isLive: true,
   accuracyInMeters: 0,
@@ -21,7 +21,7 @@ let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
 conn.relayMessage(m.chat, msg.message, {})
 }
 
-//let str = '*🍧 CuriosityBot-MD*'
+//let str = '*🍧 ⲘⲒⲒⲔⴑ BOT*'
 //await conn.sendUrl(m.chat, str, m, { externalAdReply: { mediaType: 1, renderLargerThumbnail: true, thumbnail: imagen1, thumbnailUrl: imagen1, title: '🍓 Azami', }})
  
 handler.command = /^((a|a)a)$/i
