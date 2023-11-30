@@ -10,7 +10,7 @@ text: response,
 contextInfo: {
 externalAdReply: {
 title: data5.name,
-body: '𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲𝐁𝐨𝐭',
+body: 'ⲘⲒⲒⲔⴑ',
 sourceUrl: md,
 thumbnailUrl: data5.icon, 
 mediaType: 1,
