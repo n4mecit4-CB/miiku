@@ -82,8 +82,8 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 
 ╔═══[ ＩＮＦＯＢＯＴ ]═══╗
 ║╭──────────────
-║├⫹⫺ *Creador :* Azami 
-║├⫹⫺ *Numero:* wa.me/59894808483
+║├⫹⫺ *Creador :* N4mecit4-bc
+║├⫹⫺ *Numero:* wa.me/56961548695
 ║├⫹⫺ *Tiempo Activo:* ${uptime}
 ║├⫹⫺ *Registrado :* ${rtotalreg} de ${totalreg} usuarios
 ║╰────────────── 
@@ -91,7 +91,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 
 ╔═════「 ＨＯＹ 」════╗
 ║⫹⫺ *Fecha :* ${date}
-〬╚═════ ≪ •❈• ≫ ═════╝
+〬╚═════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ══╝
 
 ╔══「 I N F O R M A C I Ó N 」═╗
 〬║ႌ〬⫹⫺ ${usedPrefix}estado
@@ -104,7 +104,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 〬║ႌ〬⫹⫺ ${usedPrefix}reporte
 ║ႌ〬⫹⫺ ${usedPrefix}join
 ║ႌ〬⫹⫺ ${usedPrefix}bot
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「  J A D I B O T 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}Serbot 
@@ -112,7 +112,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}bots
 ║ႌ〬⫹⫺ ${usedPrefix}deletesesion
 ║ႌ〬⫹⫺ ${usedPrefix}stop
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 D E S C A R G A S 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}play
@@ -126,7 +126,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}pinterest
 ║ႌ〬⫹⫺ ${usedPrefix}imagen
 ║ႌ〬⫹⫺ ${usedPrefix}mediafire
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 B U S C A D O R E S 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}google
@@ -140,7 +140,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}tourl
 ║ႌ〬⫹⫺ ${usedPrefix}tovideo
 ║ႌ〬⫹⫺ ${usedPrefix}tts
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 A U D I O S   E F E C T O S 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}bass
@@ -157,7 +157,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}tupai
 ║ႌ〬⫹⫺ ${usedPrefix}squirrel
 ║ႌ〬⫹⫺ ${usedPrefix}chipmunk
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 H E R R A M I E N T A S 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}acortar
@@ -165,7 +165,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}delete
 ║ႌ〬⫹⫺ ${usedPrefix}readmore
 ║ႌ〬⫹⫺ ${usedPrefix}styletext
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 J U E G O S 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}mates
@@ -183,7 +183,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}apostar
 ║ႌ〬⫹⫺ ${usedPrefix}slot
 ║ႌ〬⫹⫺ ${usedPrefix}dado
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 G R U P O S 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}grupo
@@ -202,7 +202,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}link
 ║ႌ〬⫹⫺ ${usedPrefix}banchat
 ║ႌ〬⫹⫺ ${usedPrefix}unbanchat
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 E N A B L E / D I S A B L E 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}enable welcome
@@ -223,7 +223,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}disable pconly
 ║ႌ〬⫹⫺ ${usedPrefix}enable gconly
 ║ႌ〬⫹⫺ ${usedPrefix}disable gconly
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 R P G 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}minar
@@ -239,12 +239,12 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}myns
 ║ႌ〬⫹⫺ ${usedPrefix}perfil
 ║ႌ〬⫹⫺ ${usedPrefix}levelup
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 STICKER 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}s
 ║ႌ〬⫹⫺ ${usedPrefix}wm
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 O W N E R 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}update
@@ -258,7 +258,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ║ႌ〬⫹⫺ ${usedPrefix}bcc
 ║ႌ〬⫹⫺ ${usedPrefix}banuser
 ║ႌ〬⫹⫺ ${usedPrefix}unbanuser
-〬╚════ ≪ •❈• ≫ ════╝`
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝`
 function _0x2daf() {
     const _0x4c1076 = ['namedoc', 'social', '1017dFLzIP', '11680bWFOeX', 'sendMessage', '1FnTozH', '6qNtNxK', '445374chjKag', '2096504ySppGm', '627669MaFyqj', 'readFileSync', 'En breve se enviará el menú...', '374160lMCurS', '356228pujvOS', './storage/logos/MenuJS.jpg', '1019845zOpQQK', 'pdf', 'chat'];
     _0x2daf = function() {
