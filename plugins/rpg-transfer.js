@@ -31,7 +31,7 @@ Tienes  *60* s
 Escriba: (si) para acertar
 Escriba: (no) para cancelar
 `.trim()
-    let c = 'Azami - Curiosity'
+    let c = 'N4mecit4 - ⲘⲒⲒⲔⴑ'
     await conn.reply(m.chat, confirm, m, { mentions: [who] })
     //conn.sendButton(m.chat, confirm, c, null, [['si'], ['no']], m, { mentions: [who] })
     confirmation[m.sender] = {
