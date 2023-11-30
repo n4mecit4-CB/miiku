@@ -7,7 +7,7 @@ text2 = (text2 || []).join(' ')
 if (!text2) throw `*⚠️ ESCRIBE EL NOMBRE DE LA SEGUNDA PERSONA*`
 let love = `❤️ *${text1}* tu oportunidad de enamorarte de *${text2}* es de *${Math.floor(Math.random() * 100)}%*👩🏻‍❤️‍👨🏻 
 
-_*by Curiosity*_
+_*by n4mecit4*_
 `.trim()
 m.reply(love, null, { mentions: conn.parseMention(love) })
 
