@@ -17,6 +17,6 @@ await m.reply(`👋 Hola ${nombre}!!
 🧃 Escriba *.menu* para mostrar el menú 
   
 📝 ¿Quieres apoyar este proyecto para que siga actualizándose? enviar a través de: 
-*https://paypal.me/azami.19*`) 
+*https://paypal.me/n4mecit4*`) 
 user.pc = new Date * 1
 }*/
