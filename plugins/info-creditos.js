@@ -47,8 +47,8 @@ https://github.com/Aiinne
 https://github.com/FahriAdison
 
 *▸ - - - —「 Desarollador 」— - - - ◂*
-*Azami:*
-https://github.com/AzamiJs
+*n4mecit4:*
+https://github.com/n4mecit4-cb
 
 *▸ - - - —「 Gracias por ayudarme 」— - - - ◂*
 *Mario* (Elrebelde21)
