@@ -131,7 +131,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ╔══「 B U S C A D O R E S 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}google
 ║ႌ〬⫹⫺ ${usedPrefix}yts
-〬╚════ ≪ •❈• ≫ ════╝
+〬╚════ ≪ •ⲘⲒⲒⲔⴑ• ≫ ════╝
 
 ╔══「 C O N V E R T I D O R E S 」═╗
 ║ႌ〬⫹⫺ ${usedPrefix}toimg
