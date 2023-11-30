@@ -16,7 +16,7 @@ handler.before = async function(m) {
       room.status = 'play';
       room.asal = m.chat;
       clearTimeout(room.waktu);
-      const textplay = `*🧃 SUIT-CURIOSITY*\n\n⚠️ EL JUEGO COMIENZA, LAS OPCIONES SE ENVIARON AL PRIVADO DE @${room.p.split`@`[0]} Y @${room.p2.split`@`[0]}\n\n- SELECCIONE UNA RESPUESTA\n*• ELIJA SU OPCIÓN EN wa.me/${conn.user.jid.split`@`[0]}*`
+      const textplay = `*🧃 SUIT-ⲘⲒⲒⲔⴑ*\n\n⚠️ EL JUEGO COMIENZA, LAS OPCIONES SE ENVIARON AL PRIVADO DE @${room.p.split`@`[0]} Y @${room.p2.split`@`[0]}\n\n- SELECCIONE UNA RESPUESTA\n*• ELIJA SU OPCIÓN EN wa.me/${conn.user.jid.split`@`[0]}*`
       m.reply(textplay, m.chat, {mentions: this.parseMention(textplay)});
       const comienzop = `*🍿 SELECCIONE UNA DE LAS SIGUIENTES OPCIONES*
 piedra
